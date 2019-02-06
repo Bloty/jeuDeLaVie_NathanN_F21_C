@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1548755555 source:d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1549469466 source:d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"tableau.h"
+	"figure.h"
+	"fichier.h"
+
+1549469358 d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\tableau.h
+	<stdio.h>
+	<stdlib.h>
+
+1549469446 source:d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\tableau.c
+	"tableau.h"
+	<stdio.h>
+	<stdlib.h>
+
+1549468957 d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\figure.h
+	"tableau.h"
+
+1548846443 source:d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\figure.c
+	"figure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1549469528 d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	"tableau.h"
+
+1549469528 source:d:\cours_ludus\anne_2\cours_c\code_blocks\jeu_de_la_vie_v2\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	"fichier.h"
+

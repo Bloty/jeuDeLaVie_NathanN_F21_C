@@ -1,0 +1,2 @@
+Cellule vivante : 6
+Cellule morte : 619
